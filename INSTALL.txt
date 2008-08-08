@@ -1,0 +1,11 @@
+__ To Install __
+
+1) Prerequisites
+  +) ruby
+  +) rubygems
+  +) sudo gem sources -a http://gems.github.com
+  +) sudo gem install dm-core dcparker-days_and_times
+2) Configure
+  +) Update config.yaml with your username and password
+3) Install
+  +) Run the command: `ruby install.rb`

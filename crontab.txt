@@ -1,0 +1,3 @@
+# min	hour	mday	month	wday	command
+0,30	*	*	*	*	ruby ~/.gmail_boomerang/gmail_boomerang.rb >/dev/null 2>&1
+0,5,10,15,20,25,30,35,40,45,50,55	*	*	*	*	ruby ~/.gmail_boomerang/read_my_spam.rb >/dev/null 2>&1
